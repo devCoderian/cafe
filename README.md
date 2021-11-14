@@ -1,7 +1,7 @@
 # 이디야 카페 클론 사이트
 본 프로젝트는 ediya 홈페이지 기반의 클론 포트폴리오 입니다.
 
-### 참고 사이트->  https://www.ediya.com/
+참고 사이트:  https://www.ediya.com/
 
 ## To use this application
 
